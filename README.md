@@ -8,9 +8,9 @@
 
 
 # 📈 GitHub 统计
-[![gd1214b's GitHub stats](https://github-readme-stats.vercel.app/api?username=gd1214b&show_icons=true)](https://github.com/gd1214b)
+[![gd1214b's GitHub stats](https://github-readme-stats.vercel.app/api?username=gd1214b&show_icons=true&theme=radical)](https://github.com/gd1214b)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gd1214b&layout=compact)](https://github.com/gd1214b)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gd1214b&layout=compact&theme=radical)](https://github.com/gd1214b)
 
 # 编程语言<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 ## 前端
