@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://cdn.jsdelivr.net/gh/gd1214b/gd1214b.github.io@latest/images/avatar.png" align="center" alt="gd1214b" />
+ <img width="200px" src="https://blog.gd1214b.icu/images/avatar.png" align="center" alt="gd1214b" />
  <h2 align="center">gd1214b</h2>
 </p>
 
