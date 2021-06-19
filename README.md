@@ -33,4 +33,4 @@
 [![gd1214b's GitHub stats](https://github-readme-stats.vercel.app/api?username=gd1214b&show_icons=true&theme=radical)](https://github.com/gd1214b)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gd1214b&layout=compact&theme=radical)](https://github.com/gd1214b)
 
-![Metrics](https://cdn.jsdelivr.net/gh/gd1214b/gd1214b@main/github-metrics.svg)
+![Metrics](https://cdn.jsdelivr.net/gh/gd1214b/gd1214b@latest/github-metrics.svg)
