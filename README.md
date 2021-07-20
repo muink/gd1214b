@@ -3,7 +3,7 @@
  <h2 align="center">gd1214b</h2>
 </p>
 
-# 📭联系方式�
+# 📭联系方式
 [![Telegram](https://cdn.jsdelivr.net/gh/gd1214b/files@main/Telegram.svg)](https://t.me/gd1214b) 
 [![Twitter](https://cdn.jsdelivr.net/gh/gd1214b/files@main/Twitter.svg)](https://twitter.com/gd1214b) 
 [![Facebook](https://cdn.jsdelivr.net/gh/gd1214b/files@main/Facebook.svg)](https://www.facebook.com/gd1214b/) 
