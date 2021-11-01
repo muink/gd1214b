@@ -36,3 +36,4 @@
 ![Top Langs](https://github-stats.gd1214b.tk/api/top-langs/?username=gd1214b&layout=compact&theme=radical)
 ![Metrics](https://cdn.gd1214b.tk/github-metrics.svg)
 
+![](https://hit.yhype.me/github/profile?user_id=37929478)
