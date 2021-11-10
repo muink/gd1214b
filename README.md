@@ -9,7 +9,7 @@
 <p align="center">
 <br/>
 <a href="https://twitter.com/gd1214b">
-  <img alt="gd1214b | Twitter" width="35px" src="https://cdn.gd1214b.tk/icon/telegram.png" />
+  <img alt="gd1214b | Twitter" width="35px" src="https://cdn.gd1214b.tk/icon/twitter.png" />
 </a>
 <a href="https://t.me/gd1214b">
   <img alt="gd1214b's Telegram" width="35px" src="https://cdn.gd1214b.tk/icon/telegram.png" />
