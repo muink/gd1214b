@@ -6,10 +6,23 @@
 <h3 align="center">念念不忘，必有回响</h3>
 
 # 📭联系方式
-[![Telegram](https://cdn.gd1214b.tk/icon/telegram.png)](https://t.me/gd1214b) 
-[![Twitter](https://cdn.gd1214b.tk/icon/twitter.png)](https://twitter.com/gd1214b) 
-[![Facebook](https://cdn.gd1214b.tk/icon/facebook.png)](https://www.facebook.com/gd1214b/) 
-[![GitHub](https://cdn.gd1214b.tk/GitHub.svg)](https://github.com/gd1214b)
+<p align="center">
+<br/>
+<a href="https://twitter.com/gd1214b">
+  <img alt="gd1214b | Twitter" width="35px" src="https://cdn.gd1214b.tk/icon/telegram.png" />
+</a>
+<a href="https://t.me/gd1214b">
+  <img alt="gd1214b's Telegram" width="35px" src="https://cdn.gd1214b.tk/icon/telegram.png" />
+</a>
+<a href="https://www.facebook.com/gd1214b">
+  <img alt="gd1214b's Facebook" width="35px" src="https://cdn.gd1214b.tk/icon/facebook.png" />
+</a>
+<a href="https://github.com/gd1214b">
+  <img alt="gd1214b's github" width="35px" src="https://cdn.gd1214b.tk/icon/github.icon" />
+</a>
+
+</p>
+
 
 # <img src="https://cdn.gd1214b.tk/giphy.gif" width="50">编程语言
 ## 前端
