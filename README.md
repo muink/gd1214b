@@ -45,18 +45,37 @@
 </p>
 
 ## 后端
-![C](https://cdn.gd1214b.tk/icon/c.png) 
-![C++](https://cdn.gd1214b.tk/icon/c++.png) 
-![python](https://cdn.gd1214b.tk/icon/python.png)
+<p align="center">
+<br/>
+<a>
+  <img width="45px" src="https://cdn.gd1214b.tk/icon/c.png" />
+</a>
+<a>
+  <img width="45px" src="https://cdn.gd1214b.tk/icon/c++.png" />
+</a>
+<a>
+  <img width="45px" src="https://cdn.gd1214b.tk/icon/python.png" />
+</a>
+
+</p>
+
 
 # 💻操作系统
-![Ubuntu](https://cdn.gd1214b.tk/icon/ubuntu.png)
-![Windows](https://cdn.gd1214b.tk/icon/windows.png)
-![Android](https://cdn.gd1214b.tk/icon/android.png)
+<p align="center">
+<br/>
+<a>
+  <img width="45px" src="https://cdn.gd1214b.tk/icon/ubuntu.png" />
+</a>
+<a>
+  <img width="45px" src="https://cdn.gd1214b.tk/icon/windows.png" />
+</a>
+<a>
+  <img width="45px" src="https://cdn.gd1214b.tk/icon/android.png" />
+</a>
 
 # 📈统计
 ## 本页访问人数统计
-![访问人数统计](https://count.getloli.com/get/@gd1214b-github?theme=gelbooru)
+![访问人数统计](https://count.getloli.com/get/@gd1214b-github?theme=rule34)
 
 ## GitHub 统计
 ![gd1214b's GitHub stats](https://github-stats.gd1214b.tk/api?username=gd1214b&show_icons=true&theme=radical)
