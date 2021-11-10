@@ -9,16 +9,16 @@
 <p align="center">
 <br/>
 <a href="https://twitter.com/gd1214b">
-  <img alt="gd1214b | Twitter" width="35px" src="https://cdn.gd1214b.tk/icon/twitter.png" />
+  <img alt="gd1214b | Twitter" width="45px" src="https://cdn.gd1214b.tk/icon/twitter.png" />
 </a>
 <a href="https://t.me/gd1214b">
-  <img alt="gd1214b's Telegram" width="35px" src="https://cdn.gd1214b.tk/icon/telegram.png" />
+  <img alt="gd1214b's Telegram" width="45px" src="https://cdn.gd1214b.tk/icon/telegram.png" />
 </a>
 <a href="https://www.facebook.com/gd1214b">
-  <img alt="gd1214b's Facebook" width="35px" src="https://cdn.gd1214b.tk/icon/facebook.png" />
+  <img alt="gd1214b's Facebook" width="45px" src="https://cdn.gd1214b.tk/icon/facebook.png" />
 </a>
 <a href="https://github.com/gd1214b">
-  <img alt="gd1214b's github" width="35px" src="https://cdn.gd1214b.tk/icon/github.png" />
+  <img alt="gd1214b's github" width="45px" src="https://cdn.gd1214b.tk/icon/github.png" />
 </a>
 
 </p>
@@ -48,7 +48,7 @@
 <p align="center">
 <br/>
 <a>
-  <img width="45px" src="https://cdn.gd1214b.tk/icon/c.png" />
+  <img width="45px" src="https://cdn.gd1214b.tk/icon/C.png" />
 </a>
 <a>
   <img width="45px" src="https://cdn.gd1214b.tk/icon/c++.png" />
