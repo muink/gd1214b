@@ -18,7 +18,7 @@
   <img alt="gd1214b's Facebook" width="35px" src="https://cdn.gd1214b.tk/icon/facebook.png" />
 </a>
 <a href="https://github.com/gd1214b">
-  <img alt="gd1214b's github" width="35px" src="https://cdn.gd1214b.tk/icon/github.icon" />
+  <img alt="gd1214b's github" width="35px" src="https://cdn.gd1214b.tk/icon/github.png" />
 </a>
 
 </p>
