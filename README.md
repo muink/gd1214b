@@ -26,10 +26,24 @@
 
 # <img src="https://cdn.gd1214b.tk/giphy.gif" width="50">编程语言
 ## 前端
-![HTML5](https://cdn.gd1214b.tk/icon/html.png) 
-![CSS3](https://cdn.gd1214b.tk/icon/css.png) 
-![JavaScript](https://cdn.gd1214b.tk/icon/css.png) 
-![Markdown](https://cdn.gd1214b.tk/icon/markdown.png)
+
+<p align="center">
+<br/>
+<a>
+  <img width="45px" src="https://cdn.gd1214b.tk/icon/html.png" />
+</a>
+<a>
+  <img width="45px" src="https://cdn.gd1214b.tk/icon/css.png" />
+</a>
+<a>
+  <img width="45px" src="https://cdn.gd1214b.tk/icon/css.png" />
+</a>
+<a>
+  <img width="45px" src="https://cdn.gd1214b.tk/icon/markdown.png" />
+</a>
+
+</p>
+
 ## 后端
 ![C](https://cdn.gd1214b.tk/icon/c.png) 
 ![C++](https://cdn.gd1214b.tk/icon/c++.png) 
