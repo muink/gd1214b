@@ -36,7 +36,7 @@
   <img width="45px" src="https://cdn.gd1214b.tk/icon/css.png" />
 </a>
 <a>
-  <img width="45px" src="https://cdn.gd1214b.tk/icon/css.png" />
+  <img width="45px" src="https://cdn.gd1214b.tk/icon/js.png" />
 </a>
 <a>
   <img width="45px" src="https://cdn.gd1214b.tk/icon/markdown.png" />
