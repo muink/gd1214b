@@ -80,6 +80,7 @@
 ## GitHub 统计
 ![gd1214b's GitHub stats](https://github-stats.gd1214b.tk/api?username=gd1214b&show_icons=true&theme=radical)
 ![Top Langs](https://github-stats.gd1214b.tk/api/top-langs/?username=gd1214b&layout=compact&theme=radical)
+![Comments](https://raw.githubusercontent.com/gd1214b/gd1214b/output/github-contribution-grid-snake.svg)
 ![Metrics](https://cdn.gd1214b.tk/github-metrics.svg)
 
 ![](https://hit.yhype.me/github/profile?user_id=37929478)
