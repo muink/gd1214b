@@ -24,7 +24,7 @@
 </p>
 
 
-# <img src="https://cdn.gd1214b.tk/giphy.gif" width="50">编程语言
+# ⌨️编程语言
 ## 前端
 
 <p align="center">
