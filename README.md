@@ -79,10 +79,9 @@
 
 ## GitHub 统计
 ![gd1214b's GitHub stats](https://github-stats.gd1214b.tk/api?username=gd1214b&show_icons=true&theme=radical)
- 
 ![Top Langs](https://github-stats.gd1214b.tk/api/top-langs/?username=gd1214b&layout=compact&theme=radical)
- 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/gd1214b/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/gd1214b/langs?time_range=one_year&include_private=True&theme=dark)](https://githubtrends.io)
  
 ![Comments](https://raw.githubusercontent.com/gd1214b/gd1214b/output/github-contribution-grid-snake.svg)
 
