@@ -7,7 +7,6 @@
 
 # 📭联系方式
 <p align="center">
-<br/>
 <a href="https://twitter.com/gd1214b">
   <img alt="gd1214b | Twitter" width="45px" src="https://cdn.gd1214b.tk/icon/twitter.png" />
 </a>
@@ -28,7 +27,6 @@
 ## 前端
 
 <p align="center">
-<br/>
 <a>
   <img width="45px" src="https://cdn.gd1214b.tk/icon/html.png" />
 </a>
@@ -46,7 +44,6 @@
 
 ## 后端
 <p align="center">
-<br/>
 <a>
   <img width="45px" src="https://cdn.gd1214b.tk/icon/C.png" />
 </a>
@@ -75,18 +72,31 @@
 
 # 📈统计
 ## 本页访问人数统计
-![访问人数统计](https://count.getloli.com/get/@gd1214b-github?theme=rule34)
-
+  <p align="center">
+  <a>
+   <img src="https://count.getloli.com/get/@gd1214b-github?theme=rule34" />
+ </a>
+ </p>
 ## GitHub 统计
-![gd1214b's GitHub stats](https://github-stats.gd1214b.tk/api?username=gd1214b&show_icons=true&theme=radical)
-![Top Langs](https://github-stats.gd1214b.tk/api/top-langs/?username=gd1214b&layout=compact&theme=radical)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/gd1214b/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/gd1214b/langs?time_range=one_year&include_private=True&theme=dark)](https://githubtrends.io)
- 
-![Comments](https://raw.githubusercontent.com/gd1214b/gd1214b/output/github-contribution-grid-snake.svg)
-
-![Metrics](https://cdn.gd1214b.tk/github-metrics.svg)
-
+ <p align="center">
+ <a>
+   <img src="https://github-stats.gd1214b.tk/api?username=gd1214b&show_icons=true&theme=radical" />
+ </a>
+ </p>
+ <p align="center">
+ <a>
+   <img src="https://api.githubtrends.io/user/svg/gd1214b/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" />
+   <img src="https://api.githubtrends.io/user/svg/gd1214b/langs?time_range=one_year&include_private=True&theme=dark" />
+ </a>
+ </p>
+ <a>
+   <img src="https://raw.githubusercontent.com/gd1214b/gd1214b/output/github-contribution-grid-snake.svg" />
+ </a>
+  <p align="center">
+<a>
+   <img src="https://cdn.gd1214b.tk/github-metrics.svg" />
+ </a>
+ </p>
  
  
  
