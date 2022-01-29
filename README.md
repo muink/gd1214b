@@ -84,15 +84,20 @@
    <img src="https://github-stats.gd1214b.tk/api?username=gd1214b&show_icons=true&theme=radical" />
  </a>
  </p>
+ 
  <p align="center">
  <a>
    <img src="https://api.githubtrends.io/user/svg/gd1214b/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" />
    <img src="https://api.githubtrends.io/user/svg/gd1214b/langs?time_range=one_year&include_private=True&theme=dark" />
  </a>
- </p>
  <a>
+   <img src="https://activity-graph.herokuapp.com/graph?username=gd1214b&theme=github">
+ </p>
+ 
+  <a>
    <img src="https://raw.githubusercontent.com/gd1214b/gd1214b/output/github-contribution-grid-snake.svg" />
  </a>
+ 
   <p align="center">
 <a>
    <img src="https://cdn.gd1214b.tk/github-metrics.svg" />
