@@ -6,6 +6,13 @@
 <h3 align="center">念念不忘，必有回响</h3>
 
 # 📭联系方式
+E-mail: [gd1214b@gd1214b.icu](mailto:gd1214b@gd1214b.icu)
+
+PGP: <https://pgp.gd1214b.icu/gd1214b_0x7FB5ECE3_public.asc>
+
+公钥指纹：`9B2B 1862 A870 7BEE 227F 6DFF D7E1 7DD8 7FB5 ECE3`
+
+社交媒体：
 <p align="center">
 <a href="https://twitter.com/gd1214b">
   <img alt="gd1214b | Twitter" width="45px" src="https://cdn.gd1214b.tk/icon/twitter.png" />
@@ -21,7 +28,6 @@
 </a>
 
 </p>
-
 
 # ⌨️编程语言
 ## 前端
