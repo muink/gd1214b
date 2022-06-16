@@ -65,7 +65,7 @@
 </p>
 
 
-# 💻操作系统
+# 💻操作系统 | Operating System
 <p align="center">
 <br/>
 <a>
@@ -78,15 +78,15 @@
   <img width="45px" src="https://cdn.gd1214b.tk/icon/android.png" />
 </a>
 
-# 📈统计
-## 本页访问人数统计
+# 📈统计 | Statistics
+## 本页访问人数统计 | Statistics on the number of visitors to this page
   <p align="center">
   <a>
    <img src="https://count.getloli.com/get/@gd1214b-github?theme=rule34" />
  </a>
  </p>
  
-## GitHub 统计
+## GitHub 统计 | GitHub Statistics
 
  <p align="center">
  <a>
