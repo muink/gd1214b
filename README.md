@@ -31,6 +31,22 @@
 
 </p>
 
+# 捐赠
+* 比特币（BTC）：
+```
+  38rnNWiDHhMze7NwYF82yQXPworHQ5tPmc
+ ```
+  
+ * 以太币（ETH）：
+
+```
+0x6ECABD1bf0833E6463611331BBC54ED9BBD5E6be
+```
+* 泰达币 (USDT-TRC20) : 
+```
+TTkCRKTdmuHR7hEM7o3vukQvBWcVGP5odZ
+```
+
 # ⌨️编程语言 | Programming Languages
 ## 前端 | Front End
 
