@@ -31,14 +31,13 @@
 
 </p>
 
-# 捐赠
+# 捐赠 | Donate
 * 比特币（BTC）：
 ```
-  38rnNWiDHhMze7NwYF82yQXPworHQ5tPmc
- ```
+38rnNWiDHhMze7NwYF82yQXPworHQ5tPmc
+```
   
 * 以太币（ETH）：
-
 ```
 0x6ECABD1bf0833E6463611331BBC54ED9BBD5E6be
 ```
@@ -98,7 +97,7 @@ TTkCRKTdmuHR7hEM7o3vukQvBWcVGP5odZ
 </a>
 
 # 📈统计 | Statistics
-## 本页访问人数统计 | Statistics on the number of visitors to this page
+## 本页访问人数 | Number of visitors to this page
   <p align="center">
   <a>
    <img src="https://count.getloli.com/get/@gd1214b-github?theme=rule34" />
